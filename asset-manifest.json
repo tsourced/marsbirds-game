@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/marsbirds-game/static/css/main.5ec7299e.chunk.css",
+    "main.js": "/marsbirds-game/static/js/main.4173f6df.chunk.js",
+    "main.js.map": "/marsbirds-game/static/js/main.4173f6df.chunk.js.map",
+    "runtime~main.js": "/marsbirds-game/static/js/runtime~main.e2f8980c.js",
+    "runtime~main.js.map": "/marsbirds-game/static/js/runtime~main.e2f8980c.js.map",
+    "static/js/2.95afa2ea.chunk.js": "/marsbirds-game/static/js/2.95afa2ea.chunk.js",
+    "static/js/2.95afa2ea.chunk.js.map": "/marsbirds-game/static/js/2.95afa2ea.chunk.js.map",
+    "static/js/3.588621c0.chunk.js": "/marsbirds-game/static/js/3.588621c0.chunk.js",
+    "static/js/3.588621c0.chunk.js.map": "/marsbirds-game/static/js/3.588621c0.chunk.js.map",
+    "static/js/4.b7ba3fc6.chunk.js": "/marsbirds-game/static/js/4.b7ba3fc6.chunk.js",
+    "static/js/4.b7ba3fc6.chunk.js.map": "/marsbirds-game/static/js/4.b7ba3fc6.chunk.js.map",
+    "index.html": "/marsbirds-game/index.html",
+    "precache-manifest.064fb1d0db7f86b5b07ffab663688f1b.js": "/marsbirds-game/precache-manifest.064fb1d0db7f86b5b07ffab663688f1b.js",
+    "service-worker.js": "/marsbirds-game/service-worker.js",
+    "static/css/main.5ec7299e.chunk.css.map": "/marsbirds-game/static/css/main.5ec7299e.chunk.css.map"
+  }
+}
